@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_specials_category_lists",
+  "info": {
+    "displayName": "CategoryList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Image": {
+      "type": "string"
+    },
+    "Price": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    },
+    "Calories": {
+      "type": "string"
+    }
+  }
+}
