@@ -29,6 +29,10 @@
     },
     "Quote": {
       "type": "string"
+    },
+    "CategorySlug": {
+      "type": "uid",
+      "targetField": "MenuCategoryName"
     }
   }
 }
